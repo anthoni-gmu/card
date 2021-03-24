@@ -10,11 +10,10 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -27,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+![](./screenshot/max.png)
 
 
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/anthoni-gmu/card](https://github.com/anthoni-gmu/card)
+- Live Site URL: [https://anthoni-gmu.github.io/card/](https://anthoni-gmu.github.io/card/)
 
 ## My process
 
@@ -42,21 +41,17 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-
-
-
-### What I learned
-
-
+- flexbox fron bootstrap
+- Sass in Bootstrap
 
 ### Continued development
 
-
+I am very excited about what I am achieving, I will continue to bootstrap with sass
 
 ### Useful resources
 
-- []() 
-- []() 
+- [w3schols](https://www.w3schools.com/css/default.asp) 
+- [bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) 
 
 
 
@@ -65,8 +60,4 @@ Users should be able to:
 - Instagram - [tons0ft](https://www.instagram.com/tons0ft/) 
 - Frontend Mentor - [anthoni-gmu](https://www.frontendmentor.io/profile/anthoni-gmu)
 
-
-
-
-## Acknowledgments
 
